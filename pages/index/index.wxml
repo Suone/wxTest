@@ -20,7 +20,7 @@
     <view style="padding: 16px">
         <i-input-number value="{{ value2 }}" min="0" max="100" step="0.2" bindchange="handleChange2" />
     </view>
-</i-panel>
+</i-panel>52225222
 <i-button bind:click="toggleLeft1" type="ghost">左边弹出1</i-button>
 <i-button bind:click="toggleLeft2" type="primary">左边弹出2</i-button>
 <i-button bind:click="toggleRight1" type="ghost">右边弹出1</i-button>
